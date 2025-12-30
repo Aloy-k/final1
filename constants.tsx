@@ -71,7 +71,8 @@ export const VIDEOS: VideoData[] = [
     id: 'crosstalk-mj', 
     title: '宇宙牌香烟 (马季)', 
     type: '相声', 
-    videoUrl: './assets/cigarette.mp4', 
+    //videoUrl: './assets/cigarette.mp4', 
+    videoUrl: 'https://github.com/Aloy-k/final1/releases/download/v1.0/cigarette.mp4',
     poster: 'https://images.unsplash.com/photo-1514306191717-452ec28c7814?w=800', 
     humorPoints: [
       { 
